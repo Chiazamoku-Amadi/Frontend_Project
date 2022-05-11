@@ -31,6 +31,8 @@ body {
     grid-template-columns: repeat(4, 170px);
     grid-template-rows: 200px 200px;
     grid-gap: 20px;
+    justify-content: center;
+    align-content: center;
     /* grid-template-areas: "one two three" "four five three"; */
 }
 
